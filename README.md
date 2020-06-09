@@ -1,2 +1,6 @@
 # Python-Test
-Automatización Pythom
+Automatización Python
+
+Pruebas Automatizadas en python
+
+pruebas unitarias
